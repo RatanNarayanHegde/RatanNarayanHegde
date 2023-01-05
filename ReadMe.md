@@ -8,7 +8,7 @@ I am a software developer at Amazon, building technology for routing and first m
 
 * 🌍  I'm based in Hyderabad, India🇮🇳
 * ✉️  You can contact me at [ratanhegde08@gmail.com](mailto:ratanhegde08@gmail.com)
-* 🧠  I'm learning React
+* 🧠  I'm learning React and javascript
 * 🤝  I'm open to collaborating on anything interesting
 * ⚡  I am super into health, fitness and workouts
 
